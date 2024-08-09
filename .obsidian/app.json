@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source",
+  "showIndentGuide": true,
+  "useTab": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments",
+  "trashOption": "local"
+}
