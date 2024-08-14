@@ -1,1 +1,10 @@
-{}
+{
+  "livePreview": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "source",
+  "showLineNumber": false,
+  "attachmentFolderPath": "./attachments",
+  "showUnsupportedFiles": true,
+  "trashOption": "local"
+}
