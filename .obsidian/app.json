@@ -1,14 +1,1 @@
-{
-  "alwaysUpdateLinks": true,
-  "propertiesInDocument": "source",
-  "showIndentGuide": true,
-  "useTab": true,
-  "strictLineBreaks": false,
-  "showLineNumber": false,
-  "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./attachments",
-  "trashOption": "local",
-  "livePreview": false,
-  "showRibbon": true,
-  "readableLineLength": true
-}
+{}

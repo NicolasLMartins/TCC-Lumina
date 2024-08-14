@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "564df1f03534ce19",
+    "id": "09f1187f5dd76f07",
     "type": "split",
     "children": [
       {
-        "id": "401f61e4272aa785",
+        "id": "8fe9982b9089cd7c",
         "type": "tabs",
         "children": [
           {
-            "id": "0838a0a00302f4b5",
+            "id": "30dc9adc92ceee74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Análise de concorrências.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -26,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "646e035167772dd7",
+    "id": "2ab2ecdae12783b0",
     "type": "split",
     "children": [
       {
-        "id": "c3693f457cfac865",
+        "id": "91c4e05df74a4dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "cf85467f2e831142",
+            "id": "09d0f9227056c18f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +39,7 @@
             }
           },
           {
-            "id": "339f2abc99543309",
+            "id": "9caf00724e1e435a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +54,7 @@
             }
           },
           {
-            "id": "1e6ee24fd18e21bd",
+            "id": "f70b183f4fde4b92",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,21 +68,20 @@
     "width": 300
   },
   "right": {
-    "id": "ae92afe8b6cfde13",
+    "id": "43500ee89fc3f228",
     "type": "split",
     "children": [
       {
-        "id": "a81f8733007b6391",
+        "id": "7aa29efb290b5d38",
         "type": "tabs",
         "children": [
           {
-            "id": "af37e95d230ccdd2",
+            "id": "3b36f00e931b9f1f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise de concorrências.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -98,104 +92,52 @@
             }
           },
           {
-            "id": "1da110d584f820ef",
+            "id": "1542955696640b37",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise de concorrências.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9f623dfff80786a7",
+            "id": "9febda7b0fa7aa8c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "17e5e85b6b22f02b",
+            "id": "328b86ea23f3e48a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Análise de concorrências.md"
-              }
-            }
-          },
-          {
-            "id": "f5d01ccd0722e2ae",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "058566564ade6ae7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "b020e243d21940ec",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "075b59736d848656",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0838a0a00302f4b5",
-  "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "Análise de concorrências.md",
-    "TCC-Lumina",
-    "repo",
-    "Welcome.md"
-  ]
+  "active": "30dc9adc92ceee74",
+  "lastOpenFiles": []
 }
