@@ -2,7 +2,7 @@
   "livePreview": false,
   "readableLineLength": true,
   "strictLineBreaks": false,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "hidden",
   "showLineNumber": false,
   "attachmentFolderPath": "./attachments",
   "showUnsupportedFiles": true,

@@ -1,47 +1,116 @@
 # OPSICO
 
-| Semelhanças                                                                                 | Diferenças                                                  |
-| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Capacidade de buscar por psicólogos especializados por área de atuação, especialidade, etc. | Pagamento por planos                                        |
-| Capacidade de realizar terapia online                                                       | 100% online                                                 |
-|                                                                                             | Não faz relatórios sobre os pacientes                       |
-|                                                                                             | Não oferece a capacidade do paciente realizar anotações     |
-|                                                                                             | Não oferece a capacidade do profissional realizar anotações | 
+| Características                                     |           Disponibilidade           |
+| --------------------------------------------------- |:-----------------------------------:|
+| Brasileiro                                          | <mark class="hltr-green">Sim</mark> |
+| Foco em psicologia                                  | <mark class="hltr-green">Sim</mark> |
+| Psicólogos especializados com abordagens diferentes | <mark class="hltr-green">Sim</mark> |
+| Consultas online                                    | <mark class="hltr-green">Sim</mark> |
+| Consultas online através do serviço                 | <mark class="hltr-green">Sim</mark> |
+| Consultas presenciais                               |  <mark class="hltr-red">Não</mark>  |
+| Pagamento por consulta                              |  <mark class="hltr-red">Não</mark>  |
+| Pagamento por assinatura                            | <mark class="hltr-green">Sim</mark> |
+| Prontuário digital                                  |  <mark class="hltr-red">Não</mark>  |
+| Anotações dos pacientes                             |  <mark class="hltr-red">Não</mark>  |
+
+---
 
 # Psitto
 
-| Semelhanças                                                                                 | Diferenças |
-| ------------------------------------------------------------------------------------------- | ---------- |
-| Capacidade de buscar por psicólogos especializados por área de atuação, especialidade, etc. |            |
-| Pagamento por consulta                                                                      |            |
-| Atendimento híbrido (online ou presencial)                                                  |            |
+| Características                                     |                   Disponibilidade                   |
+| --------------------------------------------------- |:---------------------------------------------------:|
+| Brasileiro                                          |         <mark class="hltr-green">Sim</mark>         |
+| Foco em psicologia                                  |         <mark class="hltr-green">Sim</mark>         |
+| Psicólogos especializados com abordagens diferentes |         <mark class="hltr-green">Sim</mark>         |
+| Consultas online                                    |         <mark class="hltr-green">Sim</mark>         |
+| Consultas online através do serviço                 |          <mark class="hltr-red">Não</mark>          |
+| Consultas presenciais                               | <mark class="hltr-yellow">Sim (apenas em SP)</mark> |
+| Pagamento por consulta                              |         <mark class="hltr-green">Sim</mark>         |
+| Pagamento por assinatura                            |          <mark class="hltr-red">Não</mark>          |
+| Prontuário digital                                  |          <mark class="hltr-red">Não</mark>          |
+| Anotações dos pacientes                             |          <mark class="hltr-red">Não</mark>          |
+
+---
 
 # Dedicá
 
-| Semelhanças | Diferenças |
-| ----------- | ---------- |
-|             |            |
+| Características                                     |             Disponibilidade              |
+| --------------------------------------------------- |:----------------------------------------:|
+| Brasileiro                                          |   <mark class="hltr-green">Sim</mark>    |
+| Foco em psicologia                                  |   <mark class="hltr-green">Sim</mark>    |
+| Psicólogos especializados com abordagens diferentes |   <mark class="hltr-green">Sim</mark>    |
+| Consultas online                                    |   <mark class="hltr-green">Sim</mark>    |
+| Consultas online através do serviço                 | <mark class="hltr-yellow">Incerto</mark> |
+| Consultas presenciais                               | <mark class="hltr-yellow">Incerto</mark> |
+| Pagamento por consulta                              |    <mark class="hltr-red">Não</mark>     |
+| Pagamento por assinatura                            |   <mark class="hltr-green">Sim</mark>    |
+| Prontuário digital                                  |   <mark class="hltr-green">Sim</mark>    |
+| Anotações dos pacientes                             |    <mark class="hltr-red">Não</mark>     |
+
+---
 
 # Cartão de TODOS
 
-| Semelhanças | Diferenças |
-| ----------- | ---------- |
-|             |            |
+| Características                                     |                                     Disponibilidade                                     |
+| --------------------------------------------------- |:---------------------------------------------------------------------------------------:|
+| Brasileiro                                          |                           <mark class="hltr-green">Sim</mark>                           |
+| Foco em psicologia                                  |                            <mark class="hltr-red">Não</mark>                            |
+| Psicólogos especializados com abordagens diferentes | <mark class="hltr-yellow">Sim (apenas os disponibilizados pela clínica parceira)</mark> |
+| Consultas online                                    |                           <mark class="hltr-green">Sim</mark>                           |
+| Consultas online através do serviço                 |                            <mark class="hltr-yellow">Incerto</mark>                            |
+| Consultas presenciais                               |                           <mark class="hltr-green">Sim</mark>                           |
+| Pagamento por consulta                              |                           <mark class="hltr-green">Sim</mark>                           |
+| Pagamento por assinatura                            |             <mark class="hltr-green">Sim (convênio cartão de TODOS)</mark>              |
+| Prontuário digital                                  |                           <mark class="hltr-green">Sim</mark>                           |
+| Anotações dos pacientes                             |                            <mark class="hltr-red">Não</mark>                            | 
+
+---
 
 # GetNinjas
 
-| Semelhanças | Diferenças |
-| ----------- | ---------- |
-|             |            |
+| Características                                     |           Disponibilidade           |
+| --------------------------------------------------- |:-----------------------------------:|
+| Brasileiro                                          | <mark class="hltr-green">Sim</mark> |
+| Foco em psicologia                                  |  <mark class="hltr-red">Não</mark>  |
+| Psicólogos especializados com abordagens diferentes |                                     |
+| Consultas online                                    | <mark class="hltr-green">Sim</mark> | 
+| Consultas online através do serviço                 |                                     |
+| Consultas presenciais                               | <mark class="hltr-green">Sim</mark> |
+| Pagamento por consulta                              |                                     |
+| Pagamento por assinatura                            |                                     |
+| Prontuário digital                                  |                                     |
+| Anotações dos pacientes                             |                                     |
+
+---
 
 # RedePsicólogos
 
-| Semelhanças | Diferenças |
-| ----------- | ---------- |
-|             |            |
+| Características                                     |           Disponibilidade           |
+| --------------------------------------------------- |:-----------------------------------:|
+| Brasileiro                                          | <mark class="hltr-green">Sim</mark> |
+| Foco em psicologia                                  | <mark class="hltr-green">Sim</mark> |
+| Psicólogos especializados com abordagens diferentes |                                     |
+| Consultas online                                    |                                     |
+| Consultas online através do serviço                 |                                     |
+| Consultas presenciais                               |                                     |
+| Pagamento por consulta                              |                                     |
+| Pagamento por assinatura                            |                                     |
+| Prontuário digital                                  |                                     |
+| Anotações dos pacientes                             |                                     |
+
+---
 
 # LinkedIn
 
-| Semelhanças | Diferenças |
-| ----------- | ---------- |
-|             |            |
+| Características                                     |          Disponibilidade          |
+| --------------------------------------------------- |:---------------------------------:|
+| Brasileiro                                          | <mark class="hltr-red">Não</mark> |
+| Foco em psicologia                                  | <mark class="hltr-red">Não</mark> |
+| Psicólogos especializados com abordagens diferentes |                                   |
+| Consultas online                                    |                                   |
+| Consultas online através do serviço                 |                                   |
+| Consultas presenciais                               |                                   |
+| Pagamento por consulta                              |                                   |
+| Pagamento por assinatura                            |                                   |
+| Prontuário digital                                  |                                   |
+| Anotações dos pacientes                             |                                   |

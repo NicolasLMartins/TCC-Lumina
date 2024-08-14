@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "43500ee89fc3f228",
@@ -164,13 +165,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "06ac2b65bff58a1a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 221.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,11 +192,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "df5f134bf3d760ed",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Análise de concorrências.md"
+  ]
 }

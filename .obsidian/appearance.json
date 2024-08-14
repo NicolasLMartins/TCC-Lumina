@@ -2,6 +2,9 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "accentColor": "#a13089",
-  "baseFontSize": 16,
-  "baseFontSizeAction": true
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "highlights"
+  ]
 }
