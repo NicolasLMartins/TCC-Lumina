@@ -57,12 +57,12 @@
 | Foco em psicologia                                  |                            <mark class="hltr-red">Não</mark>                            |
 | Psicólogos especializados com abordagens diferentes | <mark class="hltr-yellow">Sim (apenas os disponibilizados pela clínica parceira)</mark> |
 | Consultas online                                    |                           <mark class="hltr-green">Sim</mark>                           |
-| Consultas online através do serviço                 |                            <mark class="hltr-yellow">Incerto</mark>                            |
+| Consultas online através do serviço                 |                        <mark class="hltr-yellow">Incerto</mark>                         |
 | Consultas presenciais                               |                           <mark class="hltr-green">Sim</mark>                           |
 | Pagamento por consulta                              |                           <mark class="hltr-green">Sim</mark>                           |
 | Pagamento por assinatura                            |             <mark class="hltr-green">Sim (convênio cartão de TODOS)</mark>              |
 | Prontuário digital                                  |                           <mark class="hltr-green">Sim</mark>                           |
-| Anotações dos pacientes                             |                            <mark class="hltr-red">Não</mark>                            | 
+| Anotações dos pacientes                             |                            <mark class="hltr-red">Não</mark>                            |
 
 ---
 
