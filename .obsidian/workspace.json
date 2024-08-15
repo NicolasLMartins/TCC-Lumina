@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7cdc024490535c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atividade das perguntas.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "43500ee89fc3f228",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Análise de concorrências.md",
+                "file": "Atividade das perguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Análise de concorrências.md",
+                "file": "Atividade das perguntas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Análise de concorrências.md"
+                "file": "Atividade das perguntas.md"
               }
             }
           },
@@ -179,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +212,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df5f134bf3d760ed",
+  "active": "7cdc024490535c02",
   "lastOpenFiles": [
     "Análise de concorrências.md",
-    "Untitled.md"
+    "Atividade das perguntas.md"
   ]
 }
