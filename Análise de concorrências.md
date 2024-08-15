@@ -72,45 +72,45 @@
 | --------------------------------------------------- |:-----------------------------------:|
 | Brasileiro                                          | <mark class="hltr-green">Sim</mark> |
 | Foco em psicologia                                  |  <mark class="hltr-red">Não</mark>  |
-| Psicólogos especializados com abordagens diferentes |                                     |
-| Consultas online                                    | <mark class="hltr-green">Sim</mark> | 
-| Consultas online através do serviço                 |                                     |
+| Psicólogos especializados com abordagens diferentes | <mark class="hltr-green">Sim</mark> |
+| Consultas online                                    | <mark class="hltr-green">Sim</mark> |
+| Consultas online através do serviço                 |  <mark class="hltr-red">Não</mark>  |
 | Consultas presenciais                               | <mark class="hltr-green">Sim</mark> |
-| Pagamento por consulta                              |                                     |
-| Pagamento por assinatura                            |                                     |
-| Prontuário digital                                  |                                     |
-| Anotações dos pacientes                             |                                     |
+| Pagamento por consulta                              | <mark class="hltr-green">Sim</mark> |
+| Pagamento por assinatura                            |  <mark class="hltr-red">Não</mark>  |
+| Prontuário digital                                  |  <mark class="hltr-red">Não</mark>  |
+| Anotações dos pacientes                             |  <mark class="hltr-red">Não</mark>  |
 
 ---
 
 # RedePsicólogos
 
-| Características                                     |           Disponibilidade           |
-| --------------------------------------------------- |:-----------------------------------:|
-| Brasileiro                                          | <mark class="hltr-green">Sim</mark> |
-| Foco em psicologia                                  | <mark class="hltr-green">Sim</mark> |
-| Psicólogos especializados com abordagens diferentes |                                     |
-| Consultas online                                    |                                     |
-| Consultas online através do serviço                 |                                     |
-| Consultas presenciais                               |                                     |
-| Pagamento por consulta                              |                                     |
-| Pagamento por assinatura                            |                                     |
-| Prontuário digital                                  |                                     |
-| Anotações dos pacientes                             |                                     |
+| Características                                     |                    Disponibilidade                     |
+| --------------------------------------------------- |:------------------------------------------------------:|
+| Brasileiro                                          |          <mark class="hltr-green">Sim</mark>           |
+| Foco em psicologia                                  |          <mark class="hltr-green">Sim</mark>           |
+| Psicólogos especializados com abordagens diferentes |          <mark class="hltr-green">Sim</mark>           |
+| Consultas online                                    |          <mark class="hltr-green">Sim</mark>           |
+| Consultas online através do serviço                 |           <mark class="hltr-red">Não</mark>            | 
+| Consultas presenciais                               |          <mark class="hltr-green">Sim</mark>           |
+| Pagamento por consulta                              |     <mark class="hltr-green">Sim (sem taxa)</mark>     |
+| Pagamento por assinatura                            | <mark class="hltr-green">Sim (para o psicólogo)</mark> |
+| Prontuário digital                                  |        <mark class="hltr-yellow">Incerto</mark>        |
+| Anotações dos pacientes                             |           <mark class="hltr-red">Não</mark>            |
 
 ---
 
 # LinkedIn
 
-| Características                                     |          Disponibilidade          |
-| --------------------------------------------------- |:---------------------------------:|
-| Brasileiro                                          | <mark class="hltr-red">Não</mark> |
-| Foco em psicologia                                  | <mark class="hltr-red">Não</mark> |
-| Psicólogos especializados com abordagens diferentes |                                   |
-| Consultas online                                    |                                   |
-| Consultas online através do serviço                 |                                   |
-| Consultas presenciais                               |                                   |
-| Pagamento por consulta                              |                                   |
-| Pagamento por assinatura                            |                                   |
-| Prontuário digital                                  |                                   |
-| Anotações dos pacientes                             |                                   |
+| Características                                     |           Disponibilidade           |
+| --------------------------------------------------- |:-----------------------------------:|
+| Brasileiro                                          |  <mark class="hltr-red">Não</mark>  |
+| Foco em psicologia                                  |  <mark class="hltr-red">Não</mark>  |
+| Psicólogos especializados com abordagens diferentes | <mark class="hltr-green">Sim</mark> |
+| Consultas online                                    | <mark class="hltr-green">Sim</mark> |
+| Consultas online através do serviço                 |  <mark class="hltr-red">Não</mark>  |
+| Consultas presenciais                               | <mark class="hltr-green">Sim</mark> |
+| Pagamento por consulta                              | <mark class="hltr-green">Sim</mark> |
+| Pagamento por assinatura                            |  <mark class="hltr-red">Não</mark>  |
+| Prontuário digital                                  |  <mark class="hltr-red">Não</mark>  |
+| Anotações dos pacientes                             |  <mark class="hltr-red">Não</mark>  | 

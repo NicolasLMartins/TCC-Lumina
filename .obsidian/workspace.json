@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Análise de concorrências.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -197,9 +197,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e23713c2ac8016f0",
+  "active": "df5f134bf3d760ed",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Análise de concorrências.md"
+    "Análise de concorrências.md",
+    "Untitled.md"
   ]
 }
