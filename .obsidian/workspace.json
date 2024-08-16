@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe9982b9089cd7c",
+        "id": "8661ee410bc3923a",
         "type": "tabs",
         "children": [
           {
-            "id": "30dc9adc92ceee74",
+            "id": "4753b71e7e454404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Análise de concorrências.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7cdc024490535c02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atividade das perguntas.md",
-                "mode": "preview",
-                "source": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,35 +87,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b36f00e931b9f1f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Atividade das perguntas.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "1542955696640b37",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Atividade das perguntas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "9febda7b0fa7aa8c",
             "type": "leaf",
             "state": {
@@ -141,17 +98,42 @@
             }
           },
           {
-            "id": "328b86ea23f3e48a",
+            "id": "7171147c35c024af",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "11ce2a080c6ae16e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
               "state": {
-                "file": "Atividade das perguntas.md"
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "997416e951dc4d3c",
+            "id": "c9a5a1001e6b8309",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7c44845ed631fd8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,26 +145,18 @@
             }
           },
           {
-            "id": "06876a395f903a34",
+            "id": "532de151a836b191",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outline",
               "state": {}
             }
           },
           {
-            "id": "df5f134bf3d760ed",
+            "id": "e585640b70b92049",
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "06ac2b65bff58a1a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -209,9 +183,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7cdc024490535c02",
+  "active": "4753b71e7e454404",
   "lastOpenFiles": [
-    "Análise de concorrências.md",
-    "Atividade das perguntas.md"
+    "Atividade das perguntas.md",
+    "Untitled.md",
+    "Análise de concorrências.md"
   ]
 }
