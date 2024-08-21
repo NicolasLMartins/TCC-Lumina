@@ -9,7 +9,7 @@
   "trashOption": "local",
   "pdfExportSettings": {
     "includeName": false,
-    "pageSize": "A4",
+    "pageSize": "Tabloid",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
