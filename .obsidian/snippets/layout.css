@@ -13,6 +13,10 @@
     border-radius: 0 12px 0 0;
 }
 
+.workspace-split:nth-child(2)>.workspace-tabs>.workspace-tab-header-container>.workspace-tab-header-container-inner {
+    margin-top: 0;
+}
+
 .workspace-split:nth-child(2),
 .workspace-split:nth-child(4),
 .workspace {
