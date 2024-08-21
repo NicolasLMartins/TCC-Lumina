@@ -1,0 +1,4 @@
+.workspace-split:nth-child(1)>.workspace-tabs>.workspace-tab-header-container {
+    background-color: #fff;
+    border-radius: 20px;
+}
