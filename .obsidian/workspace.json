@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "551ec0e577881729",
+        "id": "a259da2cae95bcdf",
         "type": "tabs",
         "children": [
           {
-            "id": "77911e0f1da8dae1",
+            "id": "e97e8004f0051ccd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atividade das perguntas.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "43500ee89fc3f228",
@@ -113,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividade das perguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atividade das perguntas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atividade das perguntas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,13 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77911e0f1da8dae1",
+  "active": "e97e8004f0051ccd",
   "lastOpenFiles": [
+    "Atividade das perguntas.md",
     "Atividade das perguntasA4.pdf",
     "Atividade das perguntasTabloid.pdf",
     "Atividade das perguntas.pdf",
     "Análise de concorrências.md",
-    "Atividade das perguntas.md",
     "Untitled.md"
   ]
 }
