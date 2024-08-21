@@ -5,7 +5,7 @@
 
 /*.cm-s-obsidian span.cm-highlight, */.markdown-rendered mark {
     color: #131313;
-    padding: 3px 10px;
+    padding: 2px 10px;
     border-radius: 20px 5px 20px 5px;
 
     &:not(:has(.math-inline)) {

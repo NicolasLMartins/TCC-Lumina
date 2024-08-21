@@ -43,12 +43,13 @@
       "key": "L"
     }
   ],
-  "editor:swap-line-up": [
+  "app:open-settings": [
     {
       "modifiers": [
+        "Mod",
         "Shift"
       ],
-      "key": "ArrowUp"
+      "key": "I"
     }
   ],
   "editor:swap-line-down": [
@@ -56,7 +57,15 @@
       "modifiers": [
         "Shift"
       ],
-      "key": "ArrowDown"
+      "key": "PageDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "PageUp"
     }
   ]
 }

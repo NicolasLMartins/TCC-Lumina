@@ -6,5 +6,12 @@
   "showLineNumber": false,
   "attachmentFolderPath": "./attachments",
   "showUnsupportedFiles": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

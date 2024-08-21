@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Atividade das perguntas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "43500ee89fc3f228",
@@ -171,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +193,7 @@
   },
   "active": "77911e0f1da8dae1",
   "lastOpenFiles": [
+    "Atividade das perguntas.pdf",
     "Análise de concorrências.md",
     "Atividade das perguntas.md",
     "Untitled.md"

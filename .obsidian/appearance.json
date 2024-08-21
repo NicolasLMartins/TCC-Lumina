@@ -2,7 +2,7 @@
   "cssTheme": "Minimal",
   "theme": "obsidian",
   "accentColor": "#a13089",
-  "baseFontSize": 15,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "highlights"
