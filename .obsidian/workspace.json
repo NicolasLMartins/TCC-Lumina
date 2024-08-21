@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "43500ee89fc3f228",
@@ -193,6 +192,8 @@
   },
   "active": "77911e0f1da8dae1",
   "lastOpenFiles": [
+    "Atividade das perguntasA4.pdf",
+    "Atividade das perguntasTabloid.pdf",
     "Atividade das perguntas.pdf",
     "Análise de concorrências.md",
     "Atividade das perguntas.md",
