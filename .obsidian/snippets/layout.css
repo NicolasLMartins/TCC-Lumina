@@ -1,0 +1,32 @@
+.workspace-ribbon::before {
+    display: none;
+}
+
+.workspace-ribbon.side-dock-ribbon {
+    margin-top: 0;
+    padding-top: var(--header-height);
+    transition: all step-start;
+}
+
+.workspace-ribbon.side-dock-ribbon.is-collapsed {
+    transition: all 300ms ease-in;
+    border-radius: 0 12px 0 0;
+}
+
+.workspace-split:nth-child(2),
+.workspace-split:nth-child(4),
+.workspace {
+    background-color: rgb(63, 19, 53);
+}
+
+.workspace-split:nth-child(4) .workspace-tabs>.workspace-tab-header-container {
+    background-color: rgb(33, 37, 44);
+}
+
+.workspace-split:nth-child(2) .workspace-tabs {
+    border-radius: 0 12px 0 0;
+}
+
+.workspace-split:nth-child(4) .workspace-tabs {
+    border-radius: 12px 0 0 0;
+}

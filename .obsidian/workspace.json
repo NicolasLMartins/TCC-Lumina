@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a259da2cae95bcdf",
+        "id": "e2ace013438874c0",
         "type": "tabs",
         "children": [
           {
-            "id": "e97e8004f0051ccd",
+            "id": "f341aa05118204c1",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/appearance.json",
-                "staged": false
+                "file": "Atividade das perguntas.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -72,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 228.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "43500ee89fc3f228",
@@ -112,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atividade das perguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atividade das perguntas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atividade das perguntas.md"
+              }
             }
           },
           {
@@ -184,13 +189,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e97e8004f0051ccd",
+  "active": "f341aa05118204c1",
   "lastOpenFiles": [
     "Atividade das perguntas.md",
+    "conflict-files-obsidian-git.md",
+    "Análise de concorrências.md",
     "Atividade das perguntasA4.pdf",
     "Atividade das perguntasTabloid.pdf",
-    "Atividade das perguntas.pdf",
-    "Análise de concorrências.md",
     "Untitled.md"
   ]
 }
