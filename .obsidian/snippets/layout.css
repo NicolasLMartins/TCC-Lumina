@@ -20,7 +20,7 @@
 .workspace-split:nth-child(2),
 .workspace-split:nth-child(4),
 .workspace {
-    background-color: rgb(63, 19, 53);
+    background-color: rgb(84, 28, 84);
 }
 
 .workspace-split:nth-child(4) .workspace-tabs>.workspace-tab-header-container {
