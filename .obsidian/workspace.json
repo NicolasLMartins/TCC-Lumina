@@ -70,8 +70,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atividade das perguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atividade das perguntas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atividade das perguntas.md"
+              }
             }
           }
         ]
