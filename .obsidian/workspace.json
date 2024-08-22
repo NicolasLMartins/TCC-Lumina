@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2ca86e16beb95743",
+    "id": "fcfcca79a5e15255",
     "type": "split",
     "children": [
       {
-        "id": "5e9fabc20de8c24c",
+        "id": "0422d23d7875baab",
         "type": "tabs",
         "children": [
           {
-            "id": "28f47965fa527c41",
+            "id": "36c80ec1245e9aa8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,21 +16,20 @@
             }
           }
         ]
-        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f8dfba0d9b80511c",
+    "id": "9a9f1416e59a9a79",
     "type": "split",
     "children": [
       {
-        "id": "b2e577754a358e8d",
+        "id": "66c379f8cebd4607",
         "type": "tabs",
         "children": [
           {
-            "id": "d57e1b6bb429d249",
+            "id": "c6829fb3661f3764",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,7 +39,7 @@
             }
           },
           {
-            "id": "4f784e1ea7fd9252",
+            "id": "1fb0c789a7804e7c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,7 +54,7 @@
             }
           },
           {
-            "id": "1afbf28c7b6d5a2d",
+            "id": "1a78f204d133aaf9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -63,29 +62,30 @@
             }
           },
           {
-            "id": "d2463ce8b2291d36",
+            "id": "b22db95d80e0fb82",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "ffc7fc63ab074b17",
+    "id": "915fe529c646b3d1",
     "type": "split",
     "children": [
       {
-        "id": "523d251588753844",
+        "id": "c9b61c4de63191d6",
         "type": "tabs",
         "children": [
           {
-            "id": "a5bb6dbc1cd33218",
+            "id": "c11040cd06cdeeb3",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,12 +93,11 @@
             }
           },
           {
-            "id": "100c22dfa8aaf3b7",
+            "id": "fdd1729b95d5e281",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividade das perguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +109,18 @@
             }
           },
           {
-            "id": "59ff032dda43e871",
+            "id": "8278629e943a25c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atividade das perguntas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "885510740b087fee",
+            "id": "a0f065b64f282b3d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +131,7 @@
             }
           },
           {
-            "id": "59e715528eb468a8",
+            "id": "c64f28bc53e634cc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,13 +143,11 @@
             }
           },
           {
-            "id": "074a090d2f4c25d6",
+            "id": "367bc2a914ea91a4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atividade das perguntas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -163,8 +159,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -177,6 +171,6 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d2463ce8b2291d36",
+  "active": "b22db95d80e0fb82",
   "lastOpenFiles": []
 }
