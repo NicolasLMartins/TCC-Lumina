@@ -1,6 +1,6 @@
 {
   "commitMessage": "Manual backup: {{date}} {{hostname}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitDateFormat": "DD/MM/YYYY HH:mm:ss",
   "autoSaveInterval": 30,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
@@ -21,7 +21,7 @@
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 2500,
+  "refreshSourceControlTimer": 500,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
