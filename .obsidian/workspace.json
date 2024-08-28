@@ -11,8 +11,12 @@
             "id": "cdb873ee8e053925",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Análise de concorrências.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5110321044922
+    "width": 259.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "43500ee89fc3f228",
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Análise de concorrências.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Análise de concorrências.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Análise de concorrências.md"
+              }
             }
           },
           {
@@ -162,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +185,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e585640b70b92049",
+  "active": "cdb873ee8e053925",
   "lastOpenFiles": [
     "Atividade das perguntas.md",
     "conflict-files-obsidian-git.md",
