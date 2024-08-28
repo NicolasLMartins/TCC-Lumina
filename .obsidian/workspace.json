@@ -1,39 +1,48 @@
 {
   "main": {
-    "id": "09f1187f5dd76f07",
+    "id": "fcfcca79a5e15255",
     "type": "split",
     "children": [
       {
-        "id": "e2ace013438874c0",
+        "id": "0422d23d7875baab",
         "type": "tabs",
         "children": [
           {
-            "id": "f341aa05118204c1",
+            "id": "36c80ec1245e9aa8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e450ddb312e16c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atividade das perguntas.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2ab2ecdae12783b0",
+    "id": "9a9f1416e59a9a79",
     "type": "split",
     "children": [
       {
-        "id": "91c4e05df74a4dfc",
+        "id": "66c379f8cebd4607",
         "type": "tabs",
         "children": [
           {
-            "id": "09d0f9227056c18f",
+            "id": "c6829fb3661f3764",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +52,7 @@
             }
           },
           {
-            "id": "9caf00724e1e435a",
+            "id": "1fb0c789a7804e7c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +67,7 @@
             }
           },
           {
-            "id": "f70b183f4fde4b92",
+            "id": "1a78f204d133aaf9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,40 +75,30 @@
             }
           },
           {
-            "id": "e23713c2ac8016f0",
+            "id": "b22db95d80e0fb82",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 228.5110321044922
+    "width": 300
   },
   "right": {
-    "id": "43500ee89fc3f228",
+    "id": "915fe529c646b3d1",
     "type": "split",
     "children": [
       {
-        "id": "7aa29efb290b5d38",
+        "id": "c9b61c4de63191d6",
         "type": "tabs",
         "children": [
           {
-            "id": "9febda7b0fa7aa8c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "7171147c35c024af",
+            "id": "c11040cd06cdeeb3",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -107,12 +106,11 @@
             }
           },
           {
-            "id": "11ce2a080c6ae16e",
+            "id": "fdd1729b95d5e281",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atividade das perguntas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,19 +122,29 @@
             }
           },
           {
-            "id": "c9a5a1001e6b8309",
+            "id": "8278629e943a25c3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atividade das perguntas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b7c44845ed631fd8",
+            "id": "a0f065b64f282b3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c64f28bc53e634cc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -148,51 +156,35 @@
             }
           },
           {
-            "id": "532de151a836b191",
+            "id": "367bc2a914ea91a4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atividade das perguntas.md"
-              }
-            }
-          },
-          {
-            "id": "e585640b70b92049",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e585640b70b92049",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Atividade das perguntas.md",
-    "Análise de concorrências.md",
-    "Atividade das perguntasA4.pdf",
-    "Atividade das perguntasTabloid.pdf",
-    "Untitled.md"
-  ]
+  "active": "b22db95d80e0fb82",
+  "lastOpenFiles": []
 }
