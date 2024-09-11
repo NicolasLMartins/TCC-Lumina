@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Descrição do aplicativo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "915fe529c646b3d1",
