@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0422d23d7875baab",
+        "id": "79cbc0e5d44f44cb",
         "type": "tabs",
         "children": [
           {
-            "id": "36c80ec1245e9aa8",
+            "id": "656ae1c29a1f4ac9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Descrição do aplicativo.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Descrição do aplicativo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Descrição do aplicativo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Descrição do aplicativo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,7 +172,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "36c80ec1245e9aa8",
+  "active": "656ae1c29a1f4ac9",
   "lastOpenFiles": [
     "Descrição do aplicativo.md",
     "Atividade de observação.md"
